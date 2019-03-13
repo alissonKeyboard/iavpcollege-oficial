@@ -23,8 +23,6 @@
     <?php include "public/containers/Videos.html";?>
     <?php include "public/containers/Rodape.html";?>
 
-     
-
 
 <!--DIRECTORY JAVASCRIPT-->
 <script src="public/js/jquery.min.js"></script>
