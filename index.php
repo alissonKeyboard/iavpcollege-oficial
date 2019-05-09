@@ -11,6 +11,7 @@
 
     <!-- <link rel="stylesheet" href="public/css/bootstrap.css"> -->
     <link rel="stylesheet" href="public/css/slides.min.css">
+    <!-- <link rel="stylesheet" href="public/css/bootstrap.css"> -->
 
 
 </head>
@@ -22,13 +23,18 @@
     <?php include "public/containers/Informacao.html";?>
     <?php include "public/containers/Videos.html";?>
     <?php include "public/containers/Rodape.html";?>
+    <?php include "public/containers/Modulo-2.html";?>
+    <?php include "public/containers/Modulo-3.html";?>
 
+
+    
 
 <!--DIRECTORY JAVASCRIPT-->
 <script src="public/js/jquery.min.js"></script>
 <script src="public/js/bootstrap.min.js"></script>
 <script src="public/js/plugins.js"></script>
 <script src="public/js/slides.js"></script>
+
 
 </body>
 </html>
